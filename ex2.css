@@ -1,0 +1,18 @@
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    font-weight: lighter;
+    text-align: left;
+}
+
+th {
+    height: 100px;
+}
+
+.border-bottom-none {
+    border-bottom: none;
+}
+
+.title {
+   width: 20%; 
+}
